@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ishtotheizzo
 - 🌱 I teach! Check me out at @asu-ishrat 
-- 📫 Chck me out [@] https://wellokaylisten.com 
+- 📫 Chck me out [@] https://wellokaylisten.com
+- This is a cautionary tale 
 
 <!---
 ishtotheizzo/ishtotheizzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
