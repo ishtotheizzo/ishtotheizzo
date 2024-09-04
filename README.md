@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ishtotheizzo
-- 🌱 I’m currently learning how to code in Javascript, Tensor Flow, Pose Net and Ruby 
+- 🌱 I teach! Check me out at @asu-ishrat 
 - 📫 Chck me out [@] https://wellokaylisten.com 
 
 <!---
